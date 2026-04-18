@@ -119,3 +119,4 @@ unsigned int faStr3(const char *str) {
 
     return (2 * totalLen + wordCount) / (2 * wordCount);
 }
+ 
